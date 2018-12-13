@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "\"ded\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "efeffe"
+  },
+  "author": "",
+  "license": "ISC"
+}
+,{"title":"team","body":"team"}
